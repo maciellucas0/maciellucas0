@@ -1,5 +1,7 @@
 ### Olá , eu sou o Lucas Maciel 🔥👋
-### 
+### Desde já , boas vindas ao meu perfil !😉 Aqui você irá encontrar alguns de meus projetos pessoais , espero que se divirta!
+### Tenho 20 anos e atualmente sou aluno na KenzieAcademy Brasil para me tornar um desenvolvedor FullStack 👀⭐
+### Terminei os primeiros 6 meses que tem como conteúdo o Front-End e agora estou partindo para o Back-End , vamos nessa! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-maciel-31293a198/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.maciell_/?hl=en)
